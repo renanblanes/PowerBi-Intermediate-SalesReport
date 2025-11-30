@@ -11,3 +11,13 @@ The primary objective is to answer two business questions:
 ### Deliverables
 1. A Interactive Dashboard that tracks: Gross Revenue, Margin, Customer Lifetime Value, Revenue YoY/MoM
 2. Recomendations for the Sales Department
+
+
+
+# Data Source & Cleaning
+Data gathered from **[Kaggle](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)**
+The raw file was uploaded on this repository for easy access to anyone who wants to recreate this projects
+**AND to connect Power BI directly to this repository**
+
+
+
