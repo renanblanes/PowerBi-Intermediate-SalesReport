@@ -17,7 +17,7 @@ The primary objective is to answer two business questions:
 # Data Source & Cleaning
 Data gathered from **[Kaggle](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)**
 
-The **[RAW FILE](https://drive.google.com/file/d/1WQ-ooANAGiREKENRF8otLXVyWk2QESo_/view?usp=sharing)** was uploaded on GoogleDrive for easy access to anyone who wants to recreate this project
+The **[RAW FILE](https://drive.google.com/uc?export=download&id=1WQ-ooANAGiREKENRF8otLXVyWk2QESo_)** was uploaded on GoogleDrive for easy access to anyone who wants to recreate this project
 **AND to connect Power BI directly to this repository**
 
 
