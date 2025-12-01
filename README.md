@@ -25,9 +25,9 @@ The **[RAW FILE](https://drive.google.com/uc?export=download&id=1WQ-ooANAGiREKEN
 * **Date Locale:** The `Order_Date` column, initially in M/D/Y text format, was converted to the proper Date type using the **English (United States) Locale** to prevent regional misinterpretation.
 * **Decimal Locale:** The `Unit_Price, Revenue, Profit` columns were corrected to properly interpret the dot (`.`) as the decimal separator, resolving numerical conversion errors.
 
-## 🧩 Data Modeling & Schema Design
+## Data Modeling & Schema Design
 
-To enable scalable time intelligence and efficient querying for diagnostic analysis, the raw transactional data was structured into a **Star Schema** with the following dimensions:
+Following best practices, the raw transactional data was structured into a **Star Schema** with the following dimensions
 
 
 
