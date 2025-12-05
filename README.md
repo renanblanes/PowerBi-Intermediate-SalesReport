@@ -4,12 +4,12 @@
 This report utilizes the S.M.A.R.T methodology, which aims to make the report goal Specific, Measurable, Achievable, Relevant and Time-bound
 
 ### Goals
-The primary objective is to answer two business questions:
-1. Where are we losing money? Identify products categories or geografic location where the **YoY declined more than 10%**
-2. Why are we losing money? Analyse the possible **root factor(s)* for the decline
+What was the Total Revenue compared to the Total Profit for the Each Category Category in Q4 2024, and how did the Sub-Categories within the biggest category contribute to this financial outcome?
+In *Each Region*  during the first six months of 2024, which State contributed the highest Revenue, and how does that state's average Quantity per order compare to the lowest performing state for the same period?
+Which Region had the greatest Month-over-Month Revenue Growth Rate in the last two quarters of 2024, and did its Profit Margin improve or decline during the same period?
 
 ### Deliverables
-1. A Interactive Dashboard that tracks: Gross Revenue, Margin, Customer Lifetime Value, Revenue YoY/MoM
+1. A Interactive Dashboard that tracks: Gross Revenue/Profit/Margin, Quantity, YoY/MoM parameters
 2. Recomendations for the Sales Department
 
 
@@ -18,7 +18,8 @@ The primary objective is to answer two business questions:
 Data gathered from **[Kaggle](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)**
 
 The **[RAW FILE](https://drive.google.com/uc?export=download&id=1WQ-ooANAGiREKENRF8otLXVyWk2QESo_)** was uploaded on GoogleDrive for easy access to anyone who wants to recreate this project
-**AND to connect Power BI directly to a remote data source**
+**AND to connect Power BI directly to a remote data source
+##Note: change the download file to a webpath on your Drive and connect it via the web option on Power Bi**
 
 ### **Initial Data Quality Fixes (Power Query M)**
 
@@ -56,5 +57,5 @@ Following best practices, the raw transactional data was structured into a **Sta
 
 **Dim_Date** 
 Created using this [**M-language script**](https://drive.google.com/uc?export=download&id=1rR4Nc1pxLMuv47-ysNthejsHae_X1yRQ) to ensure a complete, contiguous date range for accurate **YoY/MoM** calculations.
-
+**NOTE: remember to change the starting and ending dates on the file to ensure you're encompasing the desired date period.**
 
