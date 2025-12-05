@@ -5,7 +5,9 @@ This report utilizes the S.M.A.R.T methodology, which aims to make the report go
 
 ### Goals
 What was the Total Revenue compared to the Total Profit for the Each Category Category in Q4 2024, and how did the Sub-Categories within the biggest category contribute to this financial outcome?
+
 In *Each Region*  during the first six months of 2024, which State contributed the highest Revenue, and how does that state's average Quantity per order compare to the lowest performing state for the same period?
+
 Which Region had the greatest Month-over-Month Revenue Growth Rate in the last two quarters of 2024, and did its Profit Margin improve or decline during the same period?
 
 ### Deliverables
